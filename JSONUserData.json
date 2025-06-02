@@ -1,0 +1,52 @@
+[
+    {
+        "surName": "s",
+        "favoriteProductList": [],
+        "homeaddress": "s",
+        "dateOfBirth": "s",
+        "phoneNum": "s",
+        "userName": "s",
+        "homeAdress": "s",
+        "cardList": [{
+            "expirationDateOfCard": "123",
+            "creditCardNumber": "123",
+            "securityCode": "123",
+            "creditCardUser": "123"
+        }],
+        "cvc": "123",
+        "password": "s",
+        "phoneNumber": "s",
+        "workAdress": "s",
+        "bithdate": "s",
+        "nameOnCard": "123",
+        "surname": "s",
+        "name": "ss",
+        "productsOrdered": [],
+        "creditCard": {
+            "expirationDateOfCard": "123",
+            "creditCardNumber": "123",
+            "securityCode": "123",
+            "creditCardUser": "123"
+        },
+        "cartList": [],
+        "email": "s",
+        "cardNumber": "123",
+        "username": "s",
+        "expirationDate": "123"
+    },
+    {
+        "homeaddress": "s",
+        "phoneNum": "s",
+        "userName": "s",
+        "cvc": "123",
+        "password": "s",
+        "bithdate": "s",
+        "workAdress": "s",
+        "nameOnCard": "123",
+        "surname": "s",
+        "email": "s",
+        "cardNumber": "123",
+        "username": "s",
+        "expirationDate": "123"
+    }
+]

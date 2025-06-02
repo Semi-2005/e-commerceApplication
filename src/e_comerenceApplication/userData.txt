@@ -1,0 +1,5 @@
+semikzr,a,Semi,Kazar,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a
+b,b,b,b,b,b,b,b,b,b,b,b,b
+semiKzr,S345860k,Semi,Kazar,05433486160,29/07/2005,29/07/2005,Istanbul,Manisa,1234123412341234,Semi Kazar,123,2071
+s,s,s,s,s,s,s,s,s,s,s,s,s
